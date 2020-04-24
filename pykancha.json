@@ -1,0 +1,11 @@
+{
+  "blog_posts_dir": "test/",
+  "filter_post_without_title": "true",
+  "google_analytics_id": "UA-139924028-1",
+  "disqus_username": "hemanta212",
+  "blog_dir": "/home/h/pykancha.github.io",
+  "templates_dir": "/home/h/pykancha.github.io/_blogger_templates",
+  "working_dir": null,
+  "default": true,
+  "blog_images_dir": "images/test/"
+}
